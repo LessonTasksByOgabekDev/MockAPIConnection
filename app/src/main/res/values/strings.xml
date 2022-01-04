@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MockAPI</string>
+    <string name="id">ID:</string>
+    <string name="get_info">Get Info</string>
+    <string name="set_info">Set Info</string>
+</resources>
